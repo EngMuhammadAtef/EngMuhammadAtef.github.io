@@ -3,13 +3,13 @@
 **A passionate data scientist with a professional certification from IBM, enthusiastic and self-motivated for the state of the art of the data science and machine learning fields, with experience executing data-driven solutions and ready to work in a big data environment, turns data using BI tools, machine learning, and deep learning into information and insights that lead to data-driven business insights and decisions.**
 
 # Education
-### Bachelor of Computer Science; Major in Information Systems | Damanhour University $~~~~~~~~~~~~~~~~~~~$ Oct 2020 - June 2024
+### Bachelor of Computer Science; Major in Information Systems | Damanhour University Oct 2020 - June 2024
   - Grade: B-
   - Relevant Coursework: Software Engineering; Data Structures & Algorithms; MATH 3; Statistics & Probability; Advanced Databases; Data Mining; Artificial Intelligence
 
 # Work Experience
 ### AI Engineer 
-#### Electro Pi · Internship · **Hybrid** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Aug 2024 - Present 
+#### Electro Pi · Internship · **Hybrid** Aug 2024 - Present 
 - Real-World Projects: Work on practical AI projects that provide hands-on experience.
     - Chief Financial Officer Assistant System: This system uses LLMs (Large Language Models) and Rag (Retrieval-Augmented Generation) technologies to assist the CFO in doing certain tasks based on the company's financial data.
 
@@ -18,7 +18,7 @@
 - Professional Development: Gain insights into the industry and enhance your project management skills.
 
 ### Data Scientist
-#### Cyber Royale · Full-time · **Remote** $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ March 2024 - June 2024 
+#### Cyber Royale · Full-time · **Remote** March 2024 - June 2024 
 Work on a new social media platform in the AI and recommendation system area as an outsource data scientist.
 
 **My Responsibilities:**
@@ -32,7 +32,7 @@ Work on a new social media platform in the AI and recommendation system area as 
 
 # Projects
 
-## Text Classification (From BagOfWords To Transformers) $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ [GitHub LINK](https://github.com/EngMuhammadAtef/Text-Classification-From-BagOfWords-To-Transformers)
+## Text Classification (From BagOfWords To Transformers) [GitHub LINK](https://github.com/EngMuhammadAtef/Text-Classification-From-BagOfWords-To-Transformers)
 
 It only takes one toxic comment to sour an online discussion. The Conversation AI team, a research initiative founded by Jigsaw and Google, builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion.
 
@@ -62,7 +62,7 @@ language to English, enhancing the accuracy and comprehensiveness of media moder
 
 **Skills: Artificial Intelligence (AI) · Computer Vision · Natural Language Processing (NLP) · Optical Character Recognition (OCR) · Machine Learning**
 
-## Study Partner Application (Opi Se) [GRADUATION PROJECT] $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ [GitHub LINK](https://github.com/EngMuhammadAtef/GRADAUTION-PROJECT)
+## Study Partner Application (Opi Se) [GRADUATION PROJECT] [GitHub LINK](https://github.com/EngMuhammadAtef/GRADAUTION-PROJECT)
 #### Study Partner Application (Web - Mobile) 
 Study Partner is an app that students can use to find a suitable partner to study with. They have shared the same preferences,
 skills and location for live chats, sessions, video calls and management tools. We used Agile/Scrum Development (SDLC).Study Partner Application (Web - Mobile) Study Partner is an app that students can use to find a suitable partner to study with. They have shared the same preferences, skills and location for live chats, sessions, video calls and management tools. We used Agile/Scrum Development (SDLC).
@@ -92,7 +92,7 @@ while reducing training time significantly.
 
 ![Datasets_UCF101_Statistics1-768x282](https://github.com/user-attachments/assets/61b854ee-5ea2-4703-9397-4035ab3655f0)
 
-## House-Prices-Advanced-Regression-Techniques $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ [GitHub LINK](https://github.com/EngMuhammadAtef/House-Pricing)
+## House-Prices-Advanced-Regression-Techniques [GitHub LINK](https://github.com/EngMuhammadAtef/House-Pricing)
 Project Overview: Combined passion for real estate and machine learning to develop a comprehensive project predicting
 house prices. 
 
@@ -125,7 +125,7 @@ house prices.
 
 # ACTIVITIES
 ### Google Developer Student Clubs - Damanhur University
-Data Analysis Instructor (10-20 students): $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ July 2022 – June 2023 
+Data Analysis Instructor (10-20 students): July 2022 – June 2023 
 
 ● Organized and facilitated regular workshops, expert lectures, and practical data analysis sessions. 
 
@@ -134,7 +134,7 @@ Data Analysis Instructor (10-20 students): $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ● Guided and inspired students to participate in the Solution Challenge and other competitions. 
 
 ### Google Developer Student Clubs - Egyptian Russian University
-Competitive Programming Instructor & Mentor (30-50 students): $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Mar 2023 – June 2023 
+Competitive Programming Instructor & Mentor (30-50 students): Mar 2023 – June 2023 
 
 ● Hosted regular workshops, expert talks, and interactive Competitive Programming sessions to enhance students' analytical level. 
 
