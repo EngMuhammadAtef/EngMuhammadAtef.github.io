@@ -115,7 +115,8 @@ house prices.
 
 
 # SKILLS & TOOLS
-- DataBases (PostgreSQL - MongoDB) - Python Programming, OOP & Debugging skills
+- DataBases (PostgreSQL - MongoDB)
+- Python Programming, OOP & Debugging skills
 - Data Structures & Algorithms
 - Python libraries (NumPy, Pandas, SciPy Matplotlib, Seaborn Scikit-learn, TensorFlow Pytorch, Open-CV, NLTK)
 - Data Visualization (Microsoft Power BI)
