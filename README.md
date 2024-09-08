@@ -18,7 +18,7 @@
 - Professional Development: Gain insights into the industry and enhance your project management skills.
 
 ### Data Scientist
-#### Cyber Royale · Full-time · **Remote** March 2024 - June 2024 
+#### Cyber Royale · Part-time · **Remote** March 2024 - June 2024 
 Work on a new social media platform in the AI and recommendation system area as an outsource data scientist.
 
 **My Responsibilities:**
