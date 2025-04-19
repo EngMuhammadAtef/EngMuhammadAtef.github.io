@@ -1,5 +1,13 @@
 # **AI Engineer & Data Scientist**
 
+**Muhammad Atef**  
+📍 Alexandria, Egypt  
+📧 [e.muhammadatef@gmail.com](mailto:e.muhammadatef@gmail.com)  
+📞 +20 106 640 7980  
+🔗 [LinkedIn](https://www.linkedin.com/in/engmuhammadatef) | [GitHub](https://github.com/engmuhammadatef) | [Kaggle](https://www.kaggle.com/muhammadatef)
+
+---
+
 **AI Engineer with 1 year of experience in developing and deploying machine learning models, Natural Language Processing (NLP), Computer Vision, and Retrieval-Augmented Generation (RAG). Proficient in Python, TensorFlow, PyTorch, and Hugging Face, with expertise in data preprocessing, feature extraction, and model training pipelines. Experienced in collaborating with cross-functional teams to integrate AI-driven solutions into production systems. Passionate about solving complex challenges using state-of-the-art AI techniques.**
 
 ---
@@ -30,7 +38,7 @@
 - Processed large datasets for model training and validation.  
 - Applied current AI research and trends to enhance solutions.
 
-### Data Scientist  
+### Junior Data Scientist  
 **Cyber Royale | UAE (Remote - Contract)**  
 **May 2024 – July 2024**  
 - Developed and deployed high-performance content moderation models using NLP and CV.  
