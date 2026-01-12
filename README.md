@@ -1,8 +1,11 @@
 # **AI Engineer & Data Scientist**
 
 **Muhammad Atef**
+
 📍 Beheira, Egypt
+
 📧 [e.muhammadatef@gmail.com](mailto:e.muhammadatef@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/engmuhammadatef) | [GitHub](https://github.com/engmuhammadatef) | [Kaggle](https://www.kaggle.com/muhammadatef)
 
 ---
