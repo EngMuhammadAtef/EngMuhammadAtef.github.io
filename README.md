@@ -3,7 +3,6 @@
 **Muhammad Atef**
 📍 Beheira, Egypt
 📧 [e.muhammadatef@gmail.com](mailto:e.muhammadatef@gmail.com)
-📞 +20 106 640 7980
 🔗 [LinkedIn](https://www.linkedin.com/in/engmuhammadatef) | [GitHub](https://github.com/engmuhammadatef) | [Kaggle](https://www.kaggle.com/muhammadatef)
 
 ---
