@@ -16,8 +16,6 @@
 
 ### Bachelor of Computer Science; Major in Information Systems | Damanhour University
 
-**Oct 2020 – June 2024**
-
 * Relevant Coursework: Software Engineering, Data Structures & Algorithms, MATH 3, Statistics & Probability, Advanced Databases, Data Mining, Artificial Intelligence
 * Activities: Member at Google Developer Student Clubs (GDSC)
 
