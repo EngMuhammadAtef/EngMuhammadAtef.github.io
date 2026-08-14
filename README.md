@@ -11,18 +11,6 @@ AI Engineer with 2 years of hands-on experience building and deploying productio
 
 ---
 
-# **Education**
-
-### Bachelor’s degree in Computer Science | Damanhur University
-
-*October 2020 - June 2024*
-
-* **Relevant Coursework**: Software Engineering, Data Structures & Algorithms, MATH 3, Statistics & Probability, Advanced Databases, Data Mining, Artificial Intelligence
-* **Activities**: Member at Google Developer Student Clubs (GDSC)
-* **Competitive Programming Mentor**: Led workshops, trained 30–50 students in problem solving, organized Codeforces competitions, and awarded achievements.
-
----
-
 # **Work Experience**
 
 ### AI Engineer
@@ -71,7 +59,17 @@ AI Engineer with 2 years of hands-on experience building and deploying productio
 
 * **Computer Vision & Multilingual OCR:** Implemented CNN moderation architectures achieving 95% accuracy for violence/nudity detection; integrated OCR and translation APIs for multi-language text-on-image moderation.
 
+---
 
+# **Education**
+
+### Bachelor’s degree in Computer Science | Damanhur University
+
+*October 2020 - June 2024*
+
+* **Relevant Coursework**: Software Engineering, Data Structures & Algorithms, MATH 3, Statistics & Probability, Advanced Databases, Data Mining, Artificial Intelligence
+* **Activities**: Member at Google Developer Student Clubs (GDSC)
+* **Competitive Programming Mentor**: Led workshops, trained 30–50 students in problem solving, organized Codeforces competitions, and awarded achievements.
 
 ---
 
