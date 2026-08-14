@@ -23,10 +23,10 @@ AI Engineer with 2 years of hands-on experience building and deploying productio
 * **Technical Lead & Core Developer for Abkarino Suite:** Engineered ComplyMarket’s proprietary domain-specific AI models for chemistry and scientific content from scratch in PyTorch.
 
 
-* **Abkarino LLM (Decoder):** Designed custom Transformer architectures, automated dataset collection/scraping, designed custom tokenizers, and managed distributed multi-GPU pre-training (FSDP), SFT, and alignment (GRPO) for high-factuality generation.
+    1- **Abkarino LLM (Decoder):** Designed custom Transformer architectures, automated dataset collection/scraping, designed custom tokenizers, and managed distributed multi-GPU pre-training (FSDP), SFT, and alignment (GRPO) for high-factuality generation.
 
 
-* **Abkarino Embedding (Encoder):** Developed a specialized domain encoder model using contrastive representation learning to generate dense vector embeddings for scientific literature, specialized terminology, and chemical notations, optimizing downstream domain retrieval.
+    2- **Abkarino Embedding (Encoder):** Developed a specialized domain encoder model using contrastive representation learning to generate dense vector embeddings for scientific literature, specialized terminology, and chemical notations, optimizing downstream domain retrieval.
 
 
 * **ComplyMarket Chatbot & Multi-Cloud RAG System:** Designed and shipped the enterprise Chatbot RAG pipeline originally on Azure, then spearheaded a seamless multi-cloud migration to Google Cloud Platform (GCP) to optimize multi-tenant retrieval performance and infrastructure costs.
