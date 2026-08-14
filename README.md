@@ -15,7 +15,7 @@ AI Engineer with 2 years of hands-on experience building and deploying productio
 
 ### AI Engineer
 
-**ComplyMarket | Alexandria, Hybrid**
+**ComplyMarket** | **Alexandria, Hybrid**
 
 
 **November 2024 – Present**
@@ -46,7 +46,7 @@ AI Engineer with 2 years of hands-on experience building and deploying productio
 
 
 
-**Cyber Royale | UAE, Remote - Contract**
+**Cyber Royale** | **UAE, Remote - Contract**
 
 
 **May 2024 – July 2024**
