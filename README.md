@@ -2,24 +2,24 @@
 
 ### Mohamed Atef
 
-📧 [e.muhammadatef@gmail.com](mailto:e.muhammadatef@gmail.com)
-
+📍 Qesm Damanhour - El Beheira, Egypt | 📞 +201027139937 | 📧 [e.muhammadatef@gmail.com](https://www.google.com/search?q=mailto%3Ae.muhammadatef%40gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/engmuhammadatef) | [GitHub](https://github.com/engmuhammadatef) | [Kaggle](https://www.kaggle.com/muhammadatef)
 
 ---
 
-**AI Engineer with 2 years of hands-on experience developing and deploying production-grade AI solutions, specializing in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and LLM fine-tuning. Experienced building LLMs from scratch (data collection, tokenizer design, PyTorch model implementation, distributed training) and integrating retrieval, embeddings, and vector stores into scalable pipelines. Also worked on computer vision and recommendation systems. Proficient in Python, PyTorch, TensorFlow, Hugging Face, LangChain, and Azure cloud services. Strong software-engineering practices for deploying and operating AI features in production.**
+AI Engineer with 2 years of hands-on experience building and deploying production-grade AI systems, with a strong focus on Large Language Models (LLMs) and NLP. Practically skilled across Retrieval-Augmented Generation (RAG), AI Agents, fine-tuning, and training LLMs from scratch, and experienced integrating embeddings, vector stores and tokenization into scalable retrieval and inference pipelines. Complementary experience in computer vision and recommendation systems, plus solid ML fundamentals and model-evaluation practices. Strong software-engineering approach to delivery — building APIs and services (Flask; familiar with FastAPI), containerized deployments (Docker), cloud environments (Azure; familiar with AWS), and LLMOps for monitoring, evaluation and continuous improvement. Comfortable working cross-functionally to turn user pain points into reliable, cost-aware AI features used in production.
 
 ---
 
 # **Education**
 
-### Bachelor of Computer Science; Major in Information Systems | Damanhour University
+### Bachelor’s degree in Computer Science | Damanhur University
 
-* Relevant Coursework: Software Engineering, Data Structures & Algorithms, MATH 3, Statistics & Probability, Advanced Databases, Data Mining, Artificial Intelligence
-* Activities: Member at Google Developer Student Clubs (GDSC)
+*October 2020 - June 2024*
 
-  * **Competitive Programming Mentor**: Led workshops, trained 30–50 students in problem solving, organized Codeforces competitions, and awarded achievements.
+* **Relevant Coursework**: Software Engineering, Data Structures & Algorithms, MATH 3, Statistics & Probability, Advanced Databases, Data Mining, Artificial Intelligence
+* **Activities**: Member at Google Developer Student Clubs (GDSC)
+* **Competitive Programming Mentor**: Led workshops, trained 30–50 students in problem solving, organized Codeforces competitions, and awarded achievements.
 
 ---
 
@@ -27,61 +27,112 @@
 
 ### AI Engineer
 
-**ComplyMarket | Germany (Remote)**
-**Nov 2024 – Present**
+**ComplyMarket | Alexandria, Hybrid**
 
-* Built and delivered a production-grade RAG pipeline on Azure: full lifecycle from file ingestion and preprocessing to scheduled ETL (Azure Functions), vector storage/search (Azure AI Search / vector DB), retrieval, context assembly and LLM generation.
-* Implemented a cron-driven data movement and indexing workflow that moves sector-specific documents into the vector store and enables fast, relevant retrieval for user queries.
-* Developed backend chat APIs and persistent chat-history, integrated the retrieval + generation flow with a frontend chat UI to provide low-latency, context-aware conversational experiences.
-* Engineered for production-grade reliability: secure data handling, service orchestration (Azure services), API design, monitoring, and performance/cost optimizations.
 
-### AI Engineer Intern
+**November 2024 – Present**
 
-**Electro Pi | Cairo (Hybrid)**
-**Aug 2024 – Nov 2024**
+* **Technical Lead & Core Developer for Abkarino Suite:** Engineered ComplyMarket’s proprietary domain-specific AI models for chemistry and scientific content from scratch in PyTorch.
 
-* Designed and implemented machine learning and generative AI components.
-* Processed large datasets for model training and validation.
-* Applied current AI research and practices to improve solution quality.
 
-### Junior Data Scientist
+* **Abkarino LLM (Decoder):** Designed custom Transformer architectures, automated dataset collection/scraping, designed custom tokenizers, and managed distributed multi-GPU pre-training (FSDP), SFT, and alignment (GRPO) for high-factuality generation.
 
-**Cyber Royale | UAE (Remote - Contract)**
+
+* **Abkarino Embedding (Encoder):** Developed a specialized domain encoder model using contrastive representation learning to generate dense vector embeddings for scientific literature, specialized terminology, and chemical notations, optimizing downstream domain retrieval.
+
+
+* **ComplyMarket Chatbot & Multi-Cloud RAG System:** Designed and shipped the enterprise Chatbot RAG pipeline originally on Azure, then spearheaded a seamless multi-cloud migration to Google Cloud Platform (GCP) to optimize multi-tenant retrieval performance and infrastructure costs.
+
+
+* **Event-Driven & Scheduled ETL Pipelines:** Implemented automated vector storage synchronization using GCP Cloud Functions (EventArc) to trigger real-time vector indexing/deletion on GCS blob events, paired with 6-hour Cloud Scheduler HTTP reconciliation functions to keep Vertex AI Vector Search in sync with raw storage.
+
+
+* **MLOps & Technical Leadership:** Owned containerized microservice deployments (Docker/Flask), continuous LLM evaluation loops, and reproducible experiment practices.
+
+
+* **Cross-Functional Alignment:** Aligned cross-functional teams (Engineering, Product, Design) and mentored junior engineers to drive user-focused delivery.
+
+
+
+### AI / Machine Learning Engineer
+
+
+
+**Cyber Royale | UAE, Remote - Contract**
+
+
 **May 2024 – July 2024**
 
-* Developed and deployed high-performance content moderation models using NLP and computer vision for real-time social media moderation.
-* Collected, preprocessed, trained, and evaluated models; integrated OCR and translation for multilingual image-text moderation.
-* Implemented monitoring and iteration loops to maintain model effectiveness in production.
+* **Content Moderation Pipeline:** Built and shipped a production-oriented content moderation system: collected and preprocessed structured/unstructured data for real-time social media inference.
+
+
+* **NLP Moderation Model:** Developed a high-accuracy ML moderation model (Bag-of-Words feature engineering + SVC) achieving 97.5% accuracy for offensive language and hate-speech detection while mitigating class imbalance.
+
+
+* **Computer Vision & Multilingual OCR:** Implemented CNN moderation architectures achieving 95% accuracy for violence/nudity detection; integrated OCR and translation APIs for multi-language text-on-image moderation.
+
+
 
 ---
 
 # **Projects**
 
-## ComplyMarket — Production RAG Pipeline (Azure)
+## Abkarino.com — Domain LLM (Decoder) & Embedding Model (Encoder) (Built from Scratch)
 
-* Built an end-to-end Retrieval-Augmented Generation system: ingestion → preprocessing → scheduled ETL (cron/Azure Functions) → vector indexing (Azure AI Search / vector DB) → retrieval → context assembly → LLM generation; integrated with persistent chat-history and frontend chat UI.
-* Focused on low-latency responses, secure data flows, and operational reliability for multi-session conversational use-cases.
 
-## Domain LLM for Chemistry & Science (From Scratch)
 
-* Led data collection (public corpora + targeted web scraping), domain corpus curation and custom tokenizer/vocabulary development.
-* Implemented a Transformer-based LLM in PyTorch and ran distributed multi-GPU training with robust checkpointing, fine-tuning and evaluation to maximize domain relevance and factuality.
-* Prepared the model for downstream RAG and production inference pipelines.
+* Technical Lead & Core Developer of a dual-model domain AI framework in PyTorch: built a generative Decoder LLM for complex scientific reasoning and an Encoder Embedding Model for dense vector representation and semantic retrieval.
+
+
+* Developed high-throughput scraping/parsing scripts and designed a specialized tokenizer tailored to scientific vocabulary and SMILES/chemical notations.
+
+
+* Managed multi-node distributed pre-training (FSDP), post-training alignment (SFT & GRPO), and evaluation benchmarks to maximize domain factuality.
+
+
+
+## ComplyMarket Chatbot & RAG Infrastructure (Migrated Azure → GCP)
+
+
+
+* Engineered an enterprise multi-tenant RAG chatbot system, leading the architectural migration from Microsoft Azure to GCP (Vertex AI Vector Search, Google Cloud Storage, Cloud Functions).
+
+
+* Built scalable Flask streaming endpoints supporting dynamic prompt reconstruction, real-time file upload parsing, dynamic model selection, and multi-threaded heartbeat status responses.
+
+
+* Designed event-driven EventArc triggers and automated 6-hour GCS reconciliation jobs to maintain vector index consistency; upgraded baseline search into an agentic pipeline with web search and pre-knowledge retrieval.
+
+
+
+## Content Moderation System — NLP & Computer Vision
+
+
+
+* Implemented text moderation using Bag-of-Words + SVC achieving 97.5% accuracy on offensive-language detection.
+
+
+* Built image/video moderation pipelines leveraging CNNs and MobileNetV2 variants achieving 95% accuracy for violence detection, integrated with OCR and translation engines.
+
+
+
+## Study Partner — Recommendation System & ETL Optimization
+
+
+
+* Designed a hybrid recommender combining content-based and collaborative filtering to match users with study partners and update matches in near-real time.
+
+
+* Implemented an ETL migration from MongoDB → PostgreSQL, reducing data retrieval/transformation latency by ~87%, significantly improving responsiveness.
+
+
+* Built automated preference-updating and partner-matching pipelines to maintain recommendation relevance.
+
+
 
 ## Chief Financial Officer AI System (Generative AI)
 
 * Built an LLM- and RAG-powered assistant for CFO workflows with dynamic visualizations, accurate time-series queries (e.g., revenue/expenses charts & tables), and smart metric suggestions for decision support.
-
-## Content Moderation System (Computer Vision & NLP)
-
-* **Text Moderation**: Achieved 97.5% accuracy using Bag-of-Words + SVC for offensive language/hate-speech detection.
-* **Image/Video Moderation**: CNN + MobileNetV2 pipelines achieving 95% accuracy for violence/nudity detection; integrated OCR + translation for multilingual moderation.
-* Deployed real-time inference and monitoring to track performance and guide retraining.
-
-## Study Partner App (Recommendation System)
-
-* Implemented a hybrid recommender (content + collaborative filtering) with real-time preference updates.
-* Optimized ETL by migrating MongoDB → PostgreSQL, reducing retrieval/transformation latency by ~87%.
 
 ## Text Classification (From BagOfWords to Transformers)
 
@@ -103,46 +154,74 @@
 
 # **Skills & Tools**
 
-### Core Skills
+### Programming & Software Engineering
 
-* Python, OOP, Data Structures & Algorithms
-* Data Preprocessing, Feature Extraction, Model Training
-* Problem-solving, Teamwork, Communication, Presentation
 
-### AI & Data Science
 
-* **Frameworks**: PyTorch, TensorFlow, Scikit-learn, Hugging Face
-* **Libraries**: NumPy, Pandas, Seaborn, Plotly, SciPy
-* **NLP & CV**: LangChain, spaCy, NLTK, OpenCV, Pillow, OCR
+* Python, OOP, Data Structures & Algorithms, API Development (Flask, familiar with FastAPI), Multi-threading, Distributed Systems, Git, Docker, CI/CD.
 
-### LLM & Retrieval
 
-* LLM training/fine-tuning, tokenizer design, embeddings, vector search, RAG systems, Agents, LangChain, OpenAI, Ollama, safetensors/checkpointing
 
-### MLOps & Deployment
+### Large Language Models & NLP
 
-* Monitoring & evaluation pipelines, reproducible experiments, containerized inference, API development (Flask; familiar with FastAPI), Docker, CI/CD practices
 
-### Data & Databases
 
-* Data ingestion, ETL, web scraping, PostgreSQL, MySQL, MongoDB, vector databases, Azure AI Search
+* LLM Pre-training from Scratch, Custom Tokenizer Design, PyTorch Transformer Architectures, Distributed Multi-GPU Training (FSDP), Alignment (SFT, GRPO), AI Agents, RAG, LangChain, Hugging Face, Model Evaluation & Checkpointing.
 
-### Cloud & Infrastructure
 
-* Azure (Functions, AI Search, App Services), Dockerized deployments, production-grade reliability, frontend/backend integrations
+
+### Cloud Architecture & Infrastructure
+
+
+
+* Multi-cloud deployment across Azure (Functions, AI Search, App Services) and GCP (Vertex AI Vector Search, Cloud Functions, GCS, EventArc, Cloud Scheduler), featuring Docker orchestration, multi-tenant data isolation, production-grade reliability, and full-stack integrations.
+
+
+
+### Machine Learning & LLMOps
+
+
+
+* Monitoring & Evaluation Pipelines, Containerized Inference Deployments, Feedback Loops, Experiment Reproducibility, Classical ML, CNNs, Recommendation Systems.
+
+
+
+### Data Engineering & Processing
+
+
+
+* Automated Web Scraping, Structured/Unstructured ETL, PostgreSQL, MySQL, MongoDB, Vector Databases, LLM Embeddings.
+
+
+
+### Mathematics for AI
+
+
+
+* Statistics, probability, linear algebra, calculus.
+
+
+
+### Soft Skills
+
+
+
+* Cross-functional Leadership, Technical Project Management, Communication, Problem Solving.
+
+
 
 ---
 
 # **Certifications**
 
 * 📜 IBM Data Science Professional Certificate
-  [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/CXXTC39BSENB)
+[View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/CXXTC39BSENB)
 * 📜 DataCamp Associate Data Scientist Certificate
-  [View Certificate](https://www.datacamp.com/certificate/DSA0017479995176)
+[View Certificate](https://www.datacamp.com/certificate/DSA0017479995176)
 * 📜 Stanford Machine Learning Certificates
-  [Supervised ML](https://www.coursera.org/account/accomplishments/verify/MGAEGVC53FGC) | [Advanced Algorithms](https://www.coursera.org/account/accomplishments/verify/SV3DFEWKQN8C)
+[Supervised ML](https://www.coursera.org/account/accomplishments/verify/MGAEGVC53FGC) | [Advanced Algorithms](https://www.coursera.org/account/accomplishments/verify/SV3DFEWKQN8C)
 * 📜 ITI NLP Engineer Courses
-  [View Certificate](https://maharatech.gov.eg/mod/customcert/view.php?id=13142&downloadown=1)
+[View Certificate](https://maharatech.gov.eg/mod/customcert/view.php?id=13142&downloadown=1)
 
 ---
 
