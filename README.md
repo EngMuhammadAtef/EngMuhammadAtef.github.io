@@ -8,7 +8,7 @@
 
 ---
 
-**AI Engineer with 3 years of hands-on experience developing and deploying production-grade AI solutions, specializing in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and LLM fine-tuning. Experienced building LLMs from scratch (data collection, tokenizer design, PyTorch model implementation, distributed training) and integrating retrieval, embeddings, and vector stores into scalable pipelines. Also worked on computer vision and recommendation systems. Proficient in Python, PyTorch, TensorFlow, Hugging Face, LangChain, and Azure cloud services. Strong software-engineering practices for deploying and operating AI features in production.**
+**AI Engineer with 2 years of hands-on experience developing and deploying production-grade AI solutions, specializing in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and LLM fine-tuning. Experienced building LLMs from scratch (data collection, tokenizer design, PyTorch model implementation, distributed training) and integrating retrieval, embeddings, and vector stores into scalable pipelines. Also worked on computer vision and recommendation systems. Proficient in Python, PyTorch, TensorFlow, Hugging Face, LangChain, and Azure cloud services. Strong software-engineering practices for deploying and operating AI features in production.**
 
 ---
 
